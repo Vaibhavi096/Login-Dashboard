@@ -11,7 +11,7 @@ Features
 Tech Stack
 <br>React – Front‑end library</br>
 
-<br>JavaScript (ES6) – Logic and functionality<?br>
+<br>JavaScript (ES6) – Logic and functionality</br>
 
 <br>HTML5 & CSS3 – Structure and styling</br>
 
