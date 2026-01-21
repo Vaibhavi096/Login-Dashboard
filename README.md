@@ -2,17 +2,14 @@ Login Dashboard is a simple and responsive web application built with React that
 
 Features
 
-🔐 User Login Page with form validation
-📊 Dashboard layout accessible after login
-⚛️ Built with React and Create React App
-🧠 Clean and beginner-friendly project structure
+<br>🔐 User Login Page with form validation</br>
+<br>📊 Dashboard layout accessible after login</br>
+<br>⚛️ Built with React and Create React App</br>
+<br>🧠 Clean and beginner-friendly project structure</br>
 
 
 Tech Stack
 <br>React – Front‑end library</br>
-
 <br>JavaScript (ES6) – Logic and functionality</br>
-
 <br>HTML5 & CSS3 – Structure and styling</br>
-
 <br>Create React App – Project setup</br>
