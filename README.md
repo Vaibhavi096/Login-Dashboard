@@ -9,7 +9,10 @@ Features
 
 
 Tech Stack
+<br>React – Front‑end library</br>
 
-React — Front-end UI
-JavaScript & CSS — Styling and behavior
-Create React App — Project scaffolding
+<br>JavaScript (ES6) – Logic and functionality<?br>
+
+<br>HTML5 & CSS3 – Structure and styling</br>
+
+<br>Create React App – Project setup</br>
